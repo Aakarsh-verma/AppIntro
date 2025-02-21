@@ -1,4 +1,4 @@
-# App Store Hero Animation
+# App Intro Animation
 
 A sample Project copying the animation that occurs on banner clicks in App Store in iphones.
 
